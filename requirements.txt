@@ -1,0 +1,6 @@
+pymongo
+redis
+neo4j
+cassandra-driver
+matplotlib
+mysql-connector-python
